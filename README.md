@@ -3,7 +3,7 @@
 
 ---
 ## Layout 
-![Windows]()
+![App Sorteio](https://github.com/Alan-oliveir/APP_Sorteio/blob/main/assets/images/screenshots/screen.png)
 
 ## Tecnologias utilizadas
 - JavaScript
