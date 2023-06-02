@@ -5,3 +5,5 @@
 - googleapis
 - gstatic
 - bootsttrap icons
+
+icon wind
