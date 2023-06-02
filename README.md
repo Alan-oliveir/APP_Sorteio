@@ -1,4 +1,4 @@
-# APP_Sorteio
+# APP Sorteio
 - App para sortear um dentre vários nomes de uma lista.
 
 ---
@@ -11,7 +11,7 @@
 - CSS
 
 ## Site
-[GitHub Pages]
+[APP Sorteio](https://alan-oliveir.github.io/APP_Sorteio/)
 
 ---
 ### Agradecimentos
