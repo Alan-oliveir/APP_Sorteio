@@ -1,15 +1,16 @@
-# APP Sorteio
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-- App para sortear um dentre vários nomes de uma lista.
----
+# Sobre
+**APP Sorteio** é uma aplicação para sortiar um nome a partir de uma lista de candidatos fornecida. 
+___
 
 ## Layout 
 ![App Sorteio](https://github.com/Alan-oliveir/APP_Sorteio/blob/main/assets/images/screenshots/screen.png)
 
-## Tecnologias utilizadas
+## Tecnologias utilizadas  
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+
 - JavaScript
 - HTML
 - CSS
